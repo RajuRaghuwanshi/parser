@@ -21,6 +21,7 @@ Masked URL: “/v2/person/{id}/details”
  
 Reference output format:
 1.	Top 5 highest throughput URLs:
+
 **Method**|**URL**|**Frequency**
 :-----:|:-----:|:-----:
 PUT|/book/{id}|7
@@ -39,4 +40,5 @@ POST|/person/add|60|140|97.25
 GET|/book/{id}/return|45|78|63
 GET|/person/all|60|102|86.67
 GET|/person/{id}/details|35|87|66.67
+
 Note: Results for all URLs have to be shown here...
